@@ -1,6 +1,6 @@
-title: "Hey, I'm Tran Nhiem"
+title: "IoTOn"
 author: "Tran Nhiem"
-description: "National Central University Taiwan"
+description: "Making our world our community a better place"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -17,10 +17,10 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html", icon: home }
-  - {file: "education.md", title: "Educations"}
-  - {file: "Teaching_experience.md", title: "Teaching Experience",  }
+  - {file: "education.md", title: "IoTs Infrastructure "}
+  - {file: "Teaching_experience.md", title: "IoTs Health Care",  }
   #- {file: "Research_Project.md", title: "Research & Project", }
-  - {file: "tran_cv.md", title: "CV"}
+  - {file: "tran_cv.md", title: "A-IoT"}
 
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
