@@ -17,10 +17,10 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html", icon: home }
-  - {file: "contruction.md", title: "IoT for Constructions"}
-  - {file: "environmental.md", title: "IoT for Environmental"}
-  - {file: "healcare.md", title: "AI_IoT for Healthcare"}
-  - {file: "smart_city.md", title: "AI_IoT for Smart-City-Smart-Home",  }
+  - {file: "contruction.md", title: "IoT Constructions", }
+  - {file: "environmental.md", title: "IoT Environmental", }
+  - {file: "healcare.md", title: "AI_IoT Healthcare", }
+  - {file: "smart_city.md", title: "AI_IoT Smart-City-Smart-Home",  }
 
 
 
